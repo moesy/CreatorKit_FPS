@@ -3,7 +3,7 @@
 
 This is simply my implmementation of the Unity Tutorial.
 
-SUMMARY
+# SUMMARY
 When you’ve completed this walkthrough, you’ll be able to share your first-person shooter (FPS) game with friends and develop it further on your own. And you’ll have saved the patient from a terrible germ attack — double win!
 In this first tutorial, you’ll:
 - Set up the Unity Editor
